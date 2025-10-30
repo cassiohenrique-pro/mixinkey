@@ -1,0 +1,5 @@
+{
+  "name": "Mix in Key",
+  "description": "An intelligent DJ assistant that analyzes your music library and suggests harmonically compatible tracks to create the perfect mix.",
+  "requestFramePermissions": []
+}
